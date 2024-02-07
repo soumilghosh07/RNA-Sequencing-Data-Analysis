@@ -52,7 +52,6 @@ The results include:
 To replicate the analysis or explore the dataset further, follow these steps:
 
 1. **Clone the repository to your local machine.**
-2. **Install the required dependencies mentioned in the `requirements.txt` file.**
-3. **Run the provided Jupyter notebooks or Python scripts to execute the analysis pipeline.**
-4. **Refer to the documentation and comments within the code for detailed explanations of each step.**
+2.. **Run the provided Jupyter notebooks or Python scripts to execute the analysis pipeline.**
+3.. **Refer to the documentation and comments within the code for detailed explanations of each step.**
 
